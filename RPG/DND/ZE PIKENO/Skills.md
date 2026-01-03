@@ -3,8 +3,8 @@ CD - 13 - BA - 7
 Saca armas e guarda como ação livre, posso substituir quando atacando a DEX por STR ou vice versa.
 ### Fighting Stance - Starfish Stance
 Cura d4 igual a proficiencia atual ex: 3 de profeciencia cura 3d4, usa 1 de chackra e é uma ação completa em combate.
-### Fighting Stance - Bear Stance
-Após um golpe se eu tiver uma mão livre eu posso usar minha ação bonus pra fazer um ataque que empurre ela pra 1,5m de distancia de mim. Pode ser um teste de atletismo com força ou acbroacia com destreza.
+### Fighting Stance - Cheetah Stance
+Vantagem em testes de iniciativa e não posso ser surpreendido.
 ### Shinobi's Shadow - Shadow of the flock
 Morcego de sombra posso tomar ele como meu sentido em uma distância de até 18m, ele tem visão notura e pode se esquivar de ataques, correr.
 #### Spells - 1 lvl
@@ -59,3 +59,7 @@ Morcego de sombra posso tomar ele como meu sentido em uma distância de até 18m
 	- Pequeno tubo jogavel em até 9m com um diametro de 4,5m se dissipa no inicio do proximo turno, todos os ataques dentro da fumaça são feitos em desvantagens enquanto estiver na area as criaturas não podem fazer ataques de oportunidade contra mim e posso me esconder como ação bônus
 ### Rapid Throw
 Gasto um de chakra pra usar a ação bonus e lançar uma shuriken numa criatura no alcance.
+### Extra Attack
+Posso executar um ataque extra
+### Unarmored Defense
+Quando estou olhando para um inimigo meu CA é 10 + DEX + INT
