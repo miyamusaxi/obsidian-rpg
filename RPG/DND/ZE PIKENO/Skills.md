@@ -14,7 +14,7 @@ Morcego de sombra posso tomar ele como meu sentido em uma distância de até 18m
     - Saving de sabedoria caso passe metade do dano
     - Se ainda tiver a reação o alvo tem que se afastar completamente de mim caso falhe no teste
 - Hunter's Mark
-	- Marca o alvo por 1 hora por até 30m
+	- Marca o alvo por 1 hora por até 18m
 	- Ação bônus
 	- Causa 1d6 de dano a mais no alvo marcado com armas
 	- Ganha vantagem em testes de percepção e sobrevivência contra o alvo.
