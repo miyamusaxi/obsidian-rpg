@@ -1,0 +1,2 @@
+### Aparência
+Homem já velho por volta de 50~55 anos mas aparenta ser um 40tão bem conservado. Anda sempre com os olhos fechados e com um chapéu marrom claro que acabou escurecendo por conta da sujeira, é um pouco surrado com alguns pequenos rasgos/cortes de balas que passaram de raspão. Sua pele é queimada do sol não chega a ser moreno é mais um branco avermelhado de queimar  no sol. Tem uma bandana preta amarrada no pescoço que pode ser usada como  máscara para não revelar sua identidade ou se esconder melhor.
